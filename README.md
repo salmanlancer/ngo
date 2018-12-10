@@ -4,7 +4,9 @@ Project Code	:	CS619
 
 Project Title	:	NGO Management System
 
+
 Project Description	:
+
 •	It is a WEB based development project, which is compromised of the following languages PHP, HTML, CSS and Bootstrap framework.
 
 •	This project runs onto the localhost by using the service of any local server like WampServer or XAMPP or MAMP according to the OS requirements.
